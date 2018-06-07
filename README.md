@@ -8,5 +8,3 @@
 ## 1-D Heat Equation
 
 [1-D Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/Report1-d.ipynb?flush_cache=true)
-
-[1-D Test Cases](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/Test1-d.ipynb?flush_cache=true)

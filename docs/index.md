@@ -16,10 +16,15 @@ layout: default
 
 ## 1D Heat Equation
 [Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/Report1-d.ipynb?flush_cache=true)
-- [Explicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/1D-Explicit.ipynb) (Iteration)
-- [Implicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/1D-Implicit.ipynb) (Conjugate-Gradient Method)
+- [Explicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/1D-Explicit.ipynb?flush_cache=true) (Iteration)
+- [Implicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/1D-Implicit.ipynb?flush_cache=true) (Conjugate-Gradient Method)
 
 ## 2D Heat Equation
 [Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/Report2-d.ipynb?flush_cache=true)
-- [Explicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/2D-Explicit.ipynb) (Iteration)
-- [Implicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/2D-Implicit.ipynb) (Conjugate-Gradient Method)
+- [Explicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/2D-Explicit.ipynb?flush_cache=true) (Iteration)
+- [Implicit Scheme](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/2D-Implicit.ipynb?flush_cache=true) (Conjugate-Gradient Method)
+
+## Crank Nicolson Method
+[Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/crank-nicholson.ipynb?flush_cache=true)
+- [1D Heat Equation](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/cn1d.ipynb?flush_cache=true)
+- [2D Heat Equation](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/cn2d.ipynb?flush_cache=true)

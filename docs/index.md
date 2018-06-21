@@ -28,3 +28,6 @@ layout: default
 [Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/crank-nicholson.ipynb?flush_cache=true)
 - [1D Heat Equation](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/cn1d.ipynb?flush_cache=true)
 - [2D Heat Equation](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project4/cn2d.ipynb?flush_cache=true)
+
+## Parabolic PDEs
+[Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project5/parabolic-pde.ipynb?flush_cache=true)

@@ -31,3 +31,6 @@ layout: default
 
 ## Parabolic PDEs
 [Report](http://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/project5/parabolic-pde.ipynb?flush_cache=true)
+
+## Fourier Series Expansion for Continuous Time
+[Assignment 1](https://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/Signals_Systems/Assignment%201.ipynb?flush_cache=true)

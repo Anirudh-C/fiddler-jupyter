@@ -34,3 +34,7 @@ layout: default
 
 ## Fourier Series Expansion for Continuous Time
 [Assignment 1](https://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/Signals_Systems/Assignment%201.ipynb?flush_cache=true)
+
+## Chaos Theory
+### Introduction
+- [Logistic Map](https://nbviewer.jupyter.org/github/Anirudh-C/fiddler-jupyter/blob/master/chaos/logistic-map.ipynb?flush_cache=true)
